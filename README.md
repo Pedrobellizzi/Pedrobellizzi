@@ -1,0 +1,5 @@
+ -. 👋 Hi, I’m @Pedrobellizzi
+-  👀 I’m interested in  assuntos  referentes a CiÇencia da Computação.
+- 🌱 I’m currently learning  Linguagens de Programação
+- 💞️ I’m looking to collaborate on  projetos da UERJ
+- 📫 How to reach me : e-mail - pabellizzi@hotmail.com
